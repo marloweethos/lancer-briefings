@@ -17,10 +17,10 @@
   <div id="app"></div>
   <script type="module" src="/src/main.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.waves.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.24/dist/vanta.net.min.js"></script>
   <script>
     VANTA.WAVES({
-      el: "body",
+      el: "#your-element-selector",
       mouseControls: true,
       touchControls: true,
       gyroControls: false,
@@ -28,11 +28,10 @@
       minWidth: 200.00,
       scale: 1.00,
       scaleMobile: 1.00,
-      color: 0x182325,
-      shininess: 10.00,
-      waveHeight: 40.00,
-      waveSpeed: 0.10,
-      zoom: 0.65
+      color: 0xc51d3a,
+      points: 11.00,
+      maxDistance: 17.00,
+      spacing: 12.00
     })
   </script>
 </body>

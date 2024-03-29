@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Shadows-Over-The-Sands",
           "status": "start"
         },
       ],
@@ -140,17 +140,25 @@ export default {
           "frame": "Everest",
           "mech": "Rio Bravo"
         },
+        {
+          "callsign": "ethos",
+          "alias": 'ETHOS',
+          "code": "4682f4ac-3d1f-42b6-a14e-bb23c7a56d81///NOMAD-ARRIVAL-POINT//5e37c8ad-fa53-4d2b-be37-9a2f4b5e8cb3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "House Of Ren"
+        }
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Elysium",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "system": "Zephyr Prime",
+        "gate": "Zephyr-Talvoria",
+        "ring": "Zephyr-Line",
+        "headerTitle": "Drifters",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Retriveal Protocol",
+        "subheaderSubtitle": "Sierra-Alpha-November-Delta",
       },
       "options":{
         "eventsMarkdownPerMission": true
