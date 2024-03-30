@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Shadows-Over-The-Sands",
+          "name": "A Simple Job",
           "status": "start"
         },
       ],
@@ -158,7 +158,7 @@ export default {
         "headerTitle": "Drifters",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Retriveal Protocol",
-        "subheaderSubtitle": "Sierra-Alpha-November-Delta",
+        "subheaderSubtitle": "Lima-India-Echo",
       },
       "options":{
         "eventsMarkdownPerMission": true
