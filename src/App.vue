@@ -95,58 +95,34 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "A Simple Job",
+          "name": "Desperate Opportunities",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
-        },
-        {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
-        },
-        {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
-        },
-        {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
-        },
-        {
-          "callsign": "ethos",
-          "alias": 'ETHOS',
+          "callsign": "Celestial",
+          "alias": 'Tony',
           "code": "4682f4ac-3d1f-42b6-a14e-bb23c7a56d81///NOMAD-ARRIVAL-POINT//5e37c8ad-fa53-4d2b-be37-9a2f4b5e8cb3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "House Of Ren"
+          "mech": "Act Of Mercy"
+        },
+        {
+          "callsign": "Garuda",
+          "alias": 'Jakori Corliss',
+          "code": "7e15g8df-5g7i-75e9-e47h-de56f0g89g15///NOMAD-ARRIVAL-POINT//0h6b19eg-hd96-7f6e-hg7a-bd6h7d9h2f67",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "The Mountain's Wrath"
+        },
+        {
+          "callsign": "Shadow",
+          "alias": 'Maki',
+          "code": "9a2cf5ae-4e3d-47f1-a85e-3d9b23d7f4a8///NOMAD-ARRIVAL-POINT//7e42f8ad-1c53-4f2b-ba37-9b2f4c5e8d91",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "SOS1"
         }
       ],
       "header": {
@@ -158,7 +134,7 @@ export default {
         "headerTitle": "Drifters",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Retriveal Protocol",
-        "subheaderSubtitle": "Lima-India-Echo",
+        "subheaderSubtitle": "VAGRANT",
       },
       "options":{
         "eventsMarkdownPerMission": true
