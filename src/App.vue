@@ -111,7 +111,7 @@ export default {
           "code": "4682f4ac-3d1f-42b6-a14e-bb23c7a56d81///NOMAD-ARRIVAL-POINT//5e37c8ad-fa53-4d2b-be37-9a2f4b5e8cb3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Act Of Mercy"
+          "mech": "Dynames"
         },
         {
           "callsign": "Garuda",
@@ -130,12 +130,12 @@ export default {
           "mech": "Liger Siri"
         }
         {
-          "callsign": "Ghxst",
-          "alias": 'Shidou Sakamoto',
+          "callsign": "Shadow",
+          "alias": 'Maki',
           "code": "8sxkf5ae-4e3d-47f1-a85e-ds3ik3d7f4a8///NOMAD-ARRIVAL-POINT//s234f8ad-1c53-4f2b-ba37-9b2sk35e8d91",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "The Impossible"
+          "mech": "Liger Siri"
         }
       ],
       "header": {
