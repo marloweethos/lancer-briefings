@@ -89,13 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Desperate Opportunities",
+          "status": "partial-success"
+        },
+        {
+          "slug": "002",
+          "name": "Lighthouse",
           "status": "start"
         },
       ],
@@ -120,9 +125,17 @@ export default {
           "callsign": "Shadow",
           "alias": 'Maki',
           "code": "9a2cf5ae-4e3d-47f1-a85e-3d9b23d7f4a8///NOMAD-ARRIVAL-POINT//7e42f8ad-1c53-4f2b-ba37-9b2f4c5e8d91",
+          "corpro": "HORUS",
+          "frame": "Minotaur",
+          "mech": "Liger Siri"
+        }
+        {
+          "callsign": "Ghxst",
+          "alias": 'Shidou Sakamoto',
+          "code": "8sxkf5ae-4e3d-47f1-a85e-ds3ik3d7f4a8///NOMAD-ARRIVAL-POINT//s234f8ad-1c53-4f2b-ba37-9b2sk35e8d91",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "SOS1"
+          "mech": "The Impossible"
         }
       ],
       "header": {
@@ -133,7 +146,7 @@ export default {
         "ring": "Zephyr-Line",
         "headerTitle": "Drifters",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Retriveal Protocol",
+        "subheaderTitle": "Crisis Protocol",
         "subheaderSubtitle": "VAGRANT",
       },
       "options":{
