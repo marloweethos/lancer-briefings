@@ -130,11 +130,11 @@ export default {
           "mech": "Liger Siri"
         }
         {
-          "callsign": "Shadow",
-          "alias": 'Maki',
+          "callsign": "kal",
+          "alias": 'kal',
           "code": "8sxkf5ae-4e3d-47f1-a85e-ds3ik3d7f4a8///NOMAD-ARRIVAL-POINT//s234f8ad-1c53-4f2b-ba37-9b2sk35e8d91",
           "corpro": "GMS",
-          "frame": "Everest",
+          "frame": "Minotaur",
           "mech": "Liger Siri"
         }
       ],
