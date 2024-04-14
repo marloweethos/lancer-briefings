@@ -128,7 +128,7 @@ export default {
           "corpro": "HORUS",
           "frame": "Minotaur",
           "mech": "Liger Siri"
-        }
+        },
         {
           "callsign": "kal",
           "alias": 'kal',
@@ -136,7 +136,7 @@ export default {
           "corpro": "GMS",
           "frame": "Minotaur",
           "mech": "Liger Siri"
-        }
+        },
       ],
       "header": {
         "planet": "Elysium",
