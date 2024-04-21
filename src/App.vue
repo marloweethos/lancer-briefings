@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "002",
-          "name": "Lighthouse",
+          "name": "Erasus",
           "status": "start"
         },
       ],
@@ -109,33 +109,33 @@ export default {
           "callsign": "Celestial",
           "alias": 'Tony',
           "code": "4682f4ac-3d1f-42b6-a14e-bb23c7a56d81///NOMAD-ARRIVAL-POINT//5e37c8ad-fa53-4d2b-be37-9a2f4b5e8cb3",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "SSC",
+          "frame": "Monarch",
           "mech": "Dynames"
         },
         {
           "callsign": "Garuda",
           "alias": 'Jakori Corliss',
           "code": "7e15g8df-5g7i-75e9-e47h-de56f0g89g15///NOMAD-ARRIVAL-POINT//0h6b19eg-hd96-7f6e-hg7a-bd6h7d9h2f67",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Mountain's Wrath"
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
+          "mech": "The Mountain's Fury"
         },
         {
           "callsign": "Shadow",
-          "alias": 'Maki',
+          "alias": 'Maki Miller',
           "code": "9a2cf5ae-4e3d-47f1-a85e-3d9b23d7f4a8///NOMAD-ARRIVAL-POINT//7e42f8ad-1c53-4f2b-ba37-9b2f4c5e8d91",
           "corpro": "HORUS",
           "frame": "Minotaur",
           "mech": "Liger Siri"
         },
         {
-          "callsign": "kal",
-          "alias": 'kal',
+          "callsign": "Ghxst",
+          "alias": 'Shidou Sakamoto',
           "code": "8sxkf5ae-4e3d-47f1-a85e-ds3ik3d7f4a8///NOMAD-ARRIVAL-POINT//s234f8ad-1c53-4f2b-ba37-9b2sk35e8d91",
           "corpro": "GMS",
-          "frame": "Minotaur",
-          "mech": "Liger Siri"
+          "frame": "Everest",
+          "mech": "The Impossible"
         },
       ],
       "header": {

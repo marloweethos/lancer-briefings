@@ -1,0 +1,9 @@
+Shidou's origins were shrouded in the bleakness of a penal colony, a place where dreams were suffocated and possibilities buried beneath the weight of despair. Born into a world of hardened criminals and oppressive authorities, he was raised amidst the stark confines of a life predetermined by the sins of his lineage.
+
+Yet, even in the darkest of nights, a spark of defiance glimmered within Shidou's soul. While others resigned themselves to the grim realities of their existence, he dared to dream of a life beyond the confines of his prison walls, where the boundaries of possibility were limited only by the imagination.
+
+Mech combat became both his means of survival and his escape from the harsh realities of his upbringing. In the cockpit of his mech, Vanguard, Shidou found a fleeting taste of freedom, a sensation that transcended the confines of his physical surroundings and soared into the boundless expanse of the cosmos.
+
+With each battle he fought, Shidou felt the shackles of his past loosen, replaced by an unyielding determination to carve out a new destiny for himself in a galaxy ripe with untapped potential. In the chaos of combat, he glimpsed a world where the lines between reality and fantasy blurred, where the impossible became achievable with each stroke of his piloting prowess.
+
+Driven by an insatiable thirst for liberation, Shidou embraced the notion that anything was possible, unfettered by the constraints of what society deemed acceptable or achievable. For him, freedom was not merely the absence of chains, but the boundless expanse of the universe laid bare before him, waiting to be explored and conquered in the pursuit of his wildest dreams.
